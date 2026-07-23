@@ -4,11 +4,11 @@
 
 - To be added:
 
-8.0 IELTS (Đạt điểm tuyệt đối 2 kĩ năng nghe đọc). Đơn vị tổ chức: College Board, APU American International School, Ngũ Hành Sơn, Đà Nẵng. Thời gian: 2025.
+8.0 IELTS (Đạt điểm tuyệt đối 2 kĩ năng nghe đọc). Đơn vị tổ chức: British council, IELTS. APTIS ESOL, Thuận Hóa, Huế. Thời gian: 2025.
 
 
 
-1540 SAT. Đơn vị tổ chức: British council, IELTS. APTIS ESOL, Thuận Hóa, Huế. Thời gian: 2025.
+1540 SAT. Đơn vị tổ chức: College Board, APU American International School, Ngũ Hành Sơn, Đà Nẵng. Thời gian: 2025.
 
 
 
