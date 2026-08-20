@@ -10,7 +10,7 @@
 | ---------------------- | :-: | ------------------------------------- |
 | Status                 |  ·  | A student                             |
 | Education              |  ·  | Vinh Linh High School · K66.2023–2026 |
-|                        |  ·  | HCMUS (?) · 2026-2030                 |
+|                        |  ·  | VNU-HCMUS · APCS · K26                 |
 
 <script>
 const birthYear = 2008;
