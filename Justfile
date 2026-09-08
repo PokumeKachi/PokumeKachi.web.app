@@ -5,9 +5,6 @@ build:
     bun install
     bun run build
 
-deploy: build
-    firebase deploy
-
 preview: build
     bun run preview
 
